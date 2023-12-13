@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Mohammad Hmoudah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**mhammadHmouda/mhammadHmouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Apprenticeship+Track;Software+Engineer;&center=true&width=500&height=50">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Mohammad, a passionate software engineer and enthusiast in the world of computer science. I love solving complex problems and creating meaningful solutions through code. Here's a bit more about me:
+
+- 🎓 Currently on the Computer Science Apprenticeship Track
+- 💻 Software Engineer in the making
+
+## Skills
+
+- 🔧 C, C++, C#, Python, Java, JavaScript, Scala
+- 🌐 Frameworks Development (Spring, Springboot, ASP.net, Node.js, Django, Apache Spark, Elasticsearch Engine)
+- 🚀 Problem Solving & Algorithms & Data Structures & Solid Principle & Design Patterns
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadHmoudah-blue)]([https://www.linkedin.com/in/mohammad-hmoudah/](https://www.linkedin.com/in/mhammad-hmouda-a0965b242/))
+
+Feel free to reach out if you share similar interests or just want to connect! 😄
