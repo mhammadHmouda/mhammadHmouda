@@ -20,6 +20,6 @@ Hello! I'm Mohammad, a passionate software engineer and enthusiast in the world 
 - 🚀 Problem Solving & Algorithms & Data Structures & Solid Principle & Design Patterns
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadHmoudah-blue)](https://www.linkedin.com/in/mhammad-hmouda-a0965b242/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadHmoudah-blue)](https://www.linkedin.com/in/mhammad-hmouda)
 
 Feel free to reach out if you share similar interests or just want to connect! 😄
