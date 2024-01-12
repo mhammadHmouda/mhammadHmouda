@@ -16,7 +16,7 @@ Hello! I'm Mohammad, a passionate software engineer and enthusiast in the world 
 ## Skills
 
 - 🔧 C, C++, C#, Python, Java, JavaScript, php & Scala.
-- 🌐 Frameworks Development (Spring, Springboot, ASP.net, Node.js, Django, Laravel, Apache Spark, Hadoop, MapReduce & Elasticsearch Engine).
+- 🌐 Frameworks Development (Spring, Springboot, ASP.net, Node.js, Django, Laravel, Apache Spark, Hadoop & Elasticsearch Engine).
 - 🚀 Problem Solving & Algorithms & Data Structures & Solid Principle & Design Patterns.
 
 ## Connect with Me
