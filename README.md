@@ -17,7 +17,7 @@ Hello! I'm Mohammad, a passionate software engineer and enthusiast in the world 
 
 - 🔧 C, C++, C#, Python, Java, JavaScript, php & Scala.
 - 🌐 Frameworks Development (Spring, Springboot, ASP.net, Node.js, Django, Laravel, Apache Spark, Hadoop & Elasticsearch Engine).
-- 🚀 Problem Solving & Algorithms & Data Structures & Solid Principle & Design Patterns.
+- 🚀 Problem Solving & Algorithms & Data Structures & OOP & Solid Principle & Design Patterns.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadHmoudah-blue)](https://www.linkedin.com/in/mhammad-hmouda)
